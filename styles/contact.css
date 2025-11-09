@@ -1,0 +1,15 @@
+img {
+    width: 200px;
+}
+
+p {
+    text-align: center;
+}
+
+.logo {
+    width: 50px;
+}
+
+#maintainer-photo {
+    border-radius: 50px;
+}
